@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Java, SQL**
 
-- 📫 How to reach me **sahasra092003@gmai.com**
+- 📫 How to reach me **sahasra092003@gmail.com**
 
 - ⚡ Fun fact **I think I am determinant**
 
